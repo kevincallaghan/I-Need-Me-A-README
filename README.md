@@ -1,9 +1,9 @@
 # I NEED ME A README
-![MIT](https://img.shields.io/bower/l/mi)
+  ![Apache 2.0](https://img.shields.io/hexpm/l/apa)
 
 ## Description
 
-This project is designed for a user to be able to answer a series of questions in the terminal and then once they have completed the questions, a complete README file will be generated for their project.
+This project creates a README using the terminal
 
 ## Table of Contents
 
@@ -18,37 +18,37 @@ This project is designed for a user to be able to answer a series of questions i
 
 ## Installation
 
-No Install
+None
 
 ...
 
 ## Usage
 
-Open the terminal for the JS file, type 'node index.js' and hit enter, then answer all of the questions as they pertain to your project.
+Use it
 
 ...
 
 ## License
 
-MIT License
+Apache License 2.0
 
 ...
 
 ## Contributing
 
-No contributors
+none
 
 ...
 
 ## Tests
 
-no tests
+none
 
 ...
 
 ## Questions
 
-Here is a link to my Github: http://www.github.com/kevincallaghan.
+Here is a link to my Github: github.
 
 If you have any questions regarding this project, please contact me at kevincallaghan5@yahoo.com.
 
