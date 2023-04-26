@@ -94,7 +94,7 @@ inquirer
     
     const data = 
 `# ${title}
-${badge}
+  ${badge}
 
 ## Description
 
