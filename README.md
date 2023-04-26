@@ -1,8 +1,9 @@
 # I NEED ME A README
+![MIT](https://img.shields.io/bower/l/mi)
 
 ## Description
 
-This is a project designed to create a README file for your project using the terminal
+This project is designed for a user to be able to answer a series of questions in the terminal and then once they have completed the questions, a complete README file will be generated for their project.
 
 ## Table of Contents
 
@@ -17,13 +18,13 @@ This is a project designed to create a README file for your project using the te
 
 ## Installation
 
-There are no installations
+No Install
 
 ...
 
 ## Usage
 
-Open the terminal for the project JS file, type "node index.js" and hit enter to run the program, then answer all the questions and a README will be created for your project
+Open the terminal for the JS file, type 'node index.js' and hit enter, then answer all of the questions as they pertain to your project.
 
 ...
 
@@ -35,13 +36,13 @@ MIT License
 
 ## Contributing
 
-None
+No contributors
 
 ...
 
 ## Tests
 
-None
+no tests
 
 ...
 

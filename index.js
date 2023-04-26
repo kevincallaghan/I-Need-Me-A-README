@@ -46,7 +46,7 @@ inquirer
       message: 'What is the license type of your project?',
       name: 'license',
       choices: [
-        "MIT License", "License2", "License3"
+        "MIT License", "Apache License 2.0", "GPLV3"
       ]
     },
     {
@@ -74,11 +74,27 @@ inquirer
 
   //! Source for method of destructuring the array used below: https://www.freecodecamp.org/news/how-to-destructure-an-array-in-javascript/
 
+  //Badge Links:
+  //MIT  https://img.shields.io/bower/l/mi
+  //Apache 2  https://img.shields.io/hexpm/l/apa
+  //GPLv3
+
   .then((response) => {
     console.log(response)
     const { title, description, installation, usage, license, contributing, tests, githubAddress, email } = response;
+    
+    let badge;
+    if (license === "MIT License") {
+      badge = '![MIT](https://img.shields.io/bower/l/mi)'
+    } else if (license === "Apache License 2.0") {
+      badge = `![Apache 2.0](https://img.shields.io/hexpm/l/apa)`
+    } else {
+      badge = `![GPLV3](https://img.shields.io/pypi/l/c)`
+    };
+    
     const data = 
 `# ${title}
+${badge}
 
 ## Description
 
