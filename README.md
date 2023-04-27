@@ -26,6 +26,8 @@ To create and run this project I installed Inquirer v 8.2.4
 
 To use this project, you must first install Inquirer.  After Inquirer has been installed, open the terminal and type "node index.js" and hit enter.  Answer all of the questions as they relate to the project you are working on, and after all questions have been answered, a README document will be created for you.
 
+Here is a link to a demonstration video: https://watch.screencastify.com/v/CsSSlFvTNBMV4CCh9jVG 
+
 ...
 
 ## License
