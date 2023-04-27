@@ -119,7 +119,7 @@ ${tests}
 
 ## Questions
 
-Here is a link to my Github: http://www.github.com/${githubAddress}
+Here is a link to my Github:  http://www.github.com/${githubAddress}/
 
 If you have any questions regarding this project, please contact me at ${email}
 
